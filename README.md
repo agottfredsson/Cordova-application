@@ -1,5 +1,6 @@
 # Cordova-application
 
-Run cordova build ios
-
-Then cordova run ios
+#Installation guide:
+#cordova plattform add ios
+#cordova build ios
+#cordova run ios
